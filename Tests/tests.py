@@ -1,4 +1,4 @@
-from myPackages import myModule
+from mypackage import mymodule
 
 
 def test_top_n():
